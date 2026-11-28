@@ -1,0 +1,31 @@
+src,dest,install_cost,power_loss
+Aswan High Dam,Benban Solar Hub,18500000,1.8
+Aswan High Dam,Toshka,62000000,6.4
+Aswan High Dam,Naga Hammadi,78000000,8.1
+Benban Solar Hub,Toshka,58000000,5.9
+Benban Solar Hub,Naga Hammadi,69000000,7.2
+Naga Hammadi,Cairo West 500,135000000,14.5
+Naga Hammadi,Suez Gulf,112000000,11.8
+Naga Hammadi,Toshka,98000000,10.2
+Cairo West 500,New Administrative Capital,24000000,2.3
+Cairo West 500,Tanta Central,31000000,3.1
+Cairo West 500,Borg El Arab,65000000,6.8
+Cairo West 500,Ismailia East,42000000,4.4
+Cairo West 500,Suez Gulf,48000000,5.0
+New Administrative Capital,Suez Gulf,34000000,3.5
+New Administrative Capital,Ismailia East,36000000,3.8
+New Administrative Capital,Tanta Central,44000000,4.6
+New Administrative Capital,Naga Hammadi,128000000,13.4
+Tanta Central,Borg El Arab,46000000,4.9
+Tanta Central,Ismailia East,39000000,4.1
+Tanta Central,Suez Gulf,57000000,6.0
+Borg El Arab,Ismailia East,74000000,7.9
+Borg El Arab,Suez Gulf,89000000,9.3
+Suez Gulf,Ismailia East,29000000,2.9
+Aswan High Dam,Cairo West 500,210000000,22.0
+Benban Solar Hub,Suez Gulf,165000000,17.5
+Toshka,Cairo West 500,245000000,25.4
+Ismailia East,Aswan High Dam,225000000,23.6
+Borg El Arab,New Administrative Capital,79000000,8.2
+Tanta Central,Naga Hammadi,152000000,16.0
+Suez Gulf,Toshka,195000000,20.5
